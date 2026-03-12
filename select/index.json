@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Lavish!!",
+  "base_artist": "吉乃",
+  "createdAt": "2026-03-12T13:35:22.510218Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lavish",
+      "artist": "Absinth3",
+      "has_synced": false,
+      "path": "select/01_Lavish_Absinth3.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lavish (feat. Logic & Mojo)",
+      "artist": "Just Juice, Logic & Mojo",
+      "has_synced": true,
+      "path": "select/02_Lavish_(feat._Logic_&_Mojo)_Just_Juice,_Logic_&_Mojo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lavish",
+      "artist": "Just Juice/Logic/Mojo Margiela",
+      "has_synced": true,
+      "path": "select/03_Lavish_Just_Juice_Logic_Mojo_Margiela.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lavish",
+      "artist": "Twista",
+      "has_synced": false,
+      "path": "select/04_Lavish_Twista.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LAVISH LIGHT",
+      "artist": "ALICE",
+      "has_synced": true,
+      "path": "select/05_LAVISH_LIGHT_ALICE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lavish Lullaby",
+      "artist": "Masego",
+      "has_synced": true,
+      "path": "select/06_Lavish_Lullaby_Masego.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lavish(Bōlají)",
+      "artist": "Bōlají",
+      "has_synced": true,
+      "path": "select/07_Lavish(Bōlají)_Bōlají.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lavish",
+      "artist": "Bōlají",
+      "has_synced": true,
+      "path": "select/08_Lavish_Bōlají.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vision Clear (feat. Lavish the MDK)",
+      "artist": "Lil Baby",
+      "has_synced": false,
+      "path": "select/09_Vision_Clear_(feat._Lavish_the_MDK)_Lil_Baby.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lavish",
+      "artist": "bbno$ feat. hollow",
+      "has_synced": true,
+      "path": "select/10_Lavish_bbno$_feat._hollow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "lavish (ft. Hollow)",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/11_lavish_(ft._Hollow)_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lavish Life",
+      "artist": "Foxy Shazam",
+      "has_synced": false,
+      "path": "select/12_Lavish_Life_Foxy_Shazam.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vision Clear (feat. Lavish the MDK)",
+      "artist": "Lil Baby feat. Lavish The MDK",
+      "has_synced": true,
+      "path": "select/13_Vision_Clear_(feat._Lavish_the_MDK)_Lil_Baby_feat._Lavish_The_MDK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Living Lavish (feat. Kenneth Paige)",
+      "artist": "Zo feat. Kenneth Paige",
+      "has_synced": true,
+      "path": "select/14_Living_Lavish_(feat._Kenneth_Paige)_Zo_feat._Kenneth_Paige.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Living Lavish (feat. Kenneth Paige)",
+      "artist": "ZO",
+      "has_synced": true,
+      "path": "select/15_Living_Lavish_(feat._Kenneth_Paige)_ZO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lavish",
+      "artist": "Jeff Bernat",
+      "has_synced": true,
+      "path": "select/16_Lavish_Jeff_Bernat.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lavish",
+      "artist": "Pharrell Williams feat. Twista",
+      "has_synced": false,
+      "path": "select/17_Lavish_Pharrell_Williams_feat._Twista.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Moola and the Guap (feat. Lavish, L.C.)",
+      "artist": "Wiz Khalifa feat. Lavish",
+      "has_synced": false,
+      "path": "select/18_Moola_and_the_Guap_(feat._Lavish,_L.C.)_Wiz_Khalifa_feat._Lavish.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lavish",
+      "artist": "88GLAM",
+      "has_synced": true,
+      "path": "select/19_Lavish_88GLAM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lavish!!",
+      "artist": "吉乃",
+      "has_synced": false,
+      "path": "select/pl_01_Lavish!!_吉乃.txt"
+    }
+  ]
+}
